@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1443535740 source:c:\users\user\desktop\junk cplusplus\pe_p60\pe_p60\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<cstdlib>
+	<climits>
+
