@@ -6,3 +6,11 @@
 	<cstdlib>
 	<climits>
 
+1451705663 source:c:\users\user\google drive\project euler\pe_p60\pe_p60\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<cstdlib>
+	<climits>
+	<algorithm>
+
